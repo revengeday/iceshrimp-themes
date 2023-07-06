@@ -2,6 +2,8 @@
 
 Unleash the Cyberpunk Essence: Enter **CYBER RED**.
 
+![](https://raw.githubusercontent.com/revengeday/calckey-themes/main/cyber-red-theme/cyber-red-theme-screenshot.png)
+
 Immerse yourself in the neon-lit streets of Night City with "CYBER RED." This cyberpunk-inspired theme transports you to a dystopian future where technology and chaos collide. With a pulsating red color palette and sleek, futuristic designs, every calculation becomes an electrifying adventure.
 
 Feel free to drop by for a drink at the [NIGHT CITY BAR](https://nightcity.bar).
